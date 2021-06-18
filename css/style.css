@@ -232,6 +232,16 @@ h6 {
 #intro .carousel-content {
   text-align: center; 
 }
+.carousel-text{
+  width: 100% !important;
+  
+}
+@media (max-width: 768px) {
+  .carousel-text{
+    width: 75% !important;
+    font-size: 16px !important;
+  }
+}
 
 #intro h2 {
   color: #fff;
