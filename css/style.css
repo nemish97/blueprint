@@ -666,6 +666,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #058B83;
   
 }
+.close{
+  font-size: 30px !important;
+  padding-bottom: 20px !important;
+}
 
 /* Section with background
 --------------------------------*/
